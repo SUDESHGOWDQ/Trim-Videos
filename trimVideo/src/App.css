@@ -1,0 +1,21 @@
+.app {
+  display: flex;
+  justify-content: space-between;
+}
+
+.content {
+  width: 70%;
+  padding: 20px;
+}
+
+.side-panel {
+  width: 35%;
+  padding: 20px;
+  border-left: 2px solid #ccc;
+  height: 100vh;
+  overflow-y: auto;
+}
+
+video {
+  margin-bottom: 10px;
+}
